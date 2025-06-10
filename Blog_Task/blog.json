@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Trends"
+    },
+    {
+        "id": 2,
+        "name": "Healthy Living"
+    },
+    {
+        "id": 3,
+        "name": "Travel Diaries"
+    },
+    {
+        "id": 4,
+        "name": "Foodie Corner"
+    },
+    {
+        "id": 5,
+        "name": "Startup Stories"
+    },
+    {
+        "id": 6,
+        "name": "Design Matters"
+    },
+    {
+        "id": 7,
+        "name": "Personal Growth"
+    },
+    {
+        "id": 8,
+        "name": "Finance Explained"
+    },
+    {
+        "id": 9,
+        "name": "Parenting Guide"
+    },
+    {
+        "id": 10,
+        "name": "Book Reviews"
+    }
+]
